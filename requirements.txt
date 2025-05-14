@@ -1,2 +1,5 @@
+streamlit
 requests
-tk
+groq
+python-dotenv
+dateparser
