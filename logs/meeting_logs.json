@@ -1,0 +1,24 @@
+[
+    {
+        "emails": [
+            "nishanthmanikandhan@gmail.com"
+        ],
+        "date": "2025-05-11",
+        "time": "00:00",
+        "rsvp": {
+            "nishanthmanikandhan@gmail.com": "Accepted"
+        }
+    },
+    {
+        "emails": [
+            "22am013@kpriet.ac.in",
+            "22am042@kpriet.ac.in"
+        ],
+        "date": "2023-05-15",
+        "time": "00:00",
+        "rsvp": {
+            "22am013@kpriet.ac.in": null,
+            "22am042@kpriet.ac.in": "Accepted"
+        }
+    }
+]
