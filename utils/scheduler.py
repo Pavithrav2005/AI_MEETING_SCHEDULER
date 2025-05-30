@@ -34,7 +34,7 @@ def schedule_meetings(names_from_user, date, time, days):
         ).strftime("%Y-%m-%d")
 
         for email in emails:
-            base_url = "http://10.10.33.206:5001"
+            base_url = "http://192.168.14.210:5001"
             accept_link = f"{base_url}/rsvp/accept/{email}"
             decline_link = f"{base_url}/rsvp/decline/{email}"
 
